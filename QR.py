@@ -7,4 +7,3 @@ colorized = True,
 save_name = "What_can_I_say.png",
 save_dir = r"C:\Users\Administrator\OneDrive\编程成果"
 )
-print("生成成功")
